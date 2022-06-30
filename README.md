@@ -15,6 +15,6 @@
 ### Methodology
 [https://i.ibb.co/grpLCx8/anomaly.png](https://ibb.co/grpLCx8)
 
-### Publication URL:
+### Publication URL
 
 [https://doi.org/10.1002/spy2.212](https://doi.org/10.1002/spy2.212)
