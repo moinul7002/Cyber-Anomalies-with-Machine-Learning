@@ -11,3 +11,10 @@
 1. Isolation Forest
 2. DBScan
 3. k-means
+
+### Methodology
+![Architecture](https://ibb.co/grpLCx8)
+
+### Publication URL:
+
+[https://doi.org/10.1002/spy2.212](https://doi.org/10.1002/spy2.212)
