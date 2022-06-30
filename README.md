@@ -13,7 +13,7 @@
 3. k-means
 
 ### Methodology
-![Architecture](https://ibb.co/grpLCx8)
+![Architecture](https://i.ibb.co/grpLCx8/anomaly.png)
 
 ### Publication URL:
 
