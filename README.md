@@ -1,6 +1,6 @@
 # Cyber-Anomalies-with-Machine-Learning
 
-### Datasets:
+### Datasets
 
 1. CIC-IDS 2017 
 2. UNSW NB15
